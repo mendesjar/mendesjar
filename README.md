@@ -26,3 +26,9 @@
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" width="36" height="36" alt="After Effects" /></a>
 <a href="https://affinity.serif.com/pt-br/designer/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png" width="36" height="36" alt="Affinity Designer" /></a>
 </p>
+
+### Socials
+                  
+<p align="left">
+<a href="https://github.com/mendesjar" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/gabriel-mendes-5b74b41b6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
