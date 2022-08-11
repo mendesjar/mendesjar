@@ -1,8 +1,10 @@
-<h2>Olá 👋 Me chamo Gabriel Mendes, pode chamar somente de Mendes</h2>
+<h2>Olá 👋 Me chamo Gabriel Mendes</h2>
 
-![Develop-Designer](https://c.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif)
+![Develop-Designer](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
  
+ Developer, Designer 
+ -----------------------------
 * 🌍  Me chamo Gabriel Mendes e sou da Bahia
 * 🧠  Apaixonado por Desenvolvimento Web, e Criação de interfaces 
 * 🤝  Buscando me desafiar todos os dias e sempre aberto a colaborações
