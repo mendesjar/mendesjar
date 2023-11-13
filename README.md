@@ -8,7 +8,7 @@
 * 🌍  Me chamo Gabriel Mendes e sou da Bahia
 * 🧠  Apaixonado por Desenvolvimento Web, e Criação de interfaces 
 * 🤝  Buscando me desafiar todos os dias e sempre aberto a colaborações
-* 💡  Trabalho atualmente como Software Enginner na [Adsoft Gestão Empresarial](http://www.adsoft.com.br) 🚀
+* 💡  Trabalho atualmente como Software Enginner 🚀
 
 ## 🔮 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
